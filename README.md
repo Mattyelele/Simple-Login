@@ -1,4 +1,4 @@
-<h3 align="center">Simple Login</h3>
+<h3 align="center">Simple Login Form</h3>
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
@@ -14,7 +14,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This repository includes the source code to a simple login in C#. I'm currently making this to build on my C# skills and I'm currently learning about databases in college so I wanna build on my knowledge about them.
+This repository includes the source code to a simple login form in C#. I'm currently making this to build on my C# skills and I'm currently learning about databases in college so I wanna build on my knowledge about them.
 
 ## ✍️ Authors <a name = "authors"></a>
 
