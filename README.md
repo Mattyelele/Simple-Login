@@ -11,10 +11,15 @@
 
 - [About](#about)
 - [Authors](#authors)
+- [Plans](#plans)
 
 ## 🧐 About <a name = "about"></a>
 
 This repository includes the source code to a simple login form in C#. I'm currently making this to build on my C# skills and I'm currently learning about databases in college so I wanna build on my knowledge about them.
+
+## 🔧 Plans <a name = "plans"></a>
+
+I wanna add a register feature and permissions so only some users can access certain features.
 
 ## ✍️ Authors <a name = "authors"></a>
 
