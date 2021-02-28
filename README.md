@@ -19,7 +19,7 @@ This repository includes the source code to a simple login form in C#. I'm curre
 
 ## 🔧 Plans <a name = "plans"></a>
 
-I wanna add a register feature and permissions so only some users can access certain features.
+I wanna add a register feature and permissions so only some users can access certain features. I'm also turning it into a chat room so the permissions will allow users to access certain chat rooms
 
 ## ✍️ Authors <a name = "authors"></a>
 
